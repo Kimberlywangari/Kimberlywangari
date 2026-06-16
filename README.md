@@ -44,19 +44,5 @@ A **production website** built for a real running club in Eldoret — mobile-fir
 ### 🔜 More coming soon
 Currently building a new data science project — watch this space.
 
-> Pin these on your profile so they appear right below this README.
-
 ---
 
-## 📈 GitHub Stats
-
-![Kimberly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimberlywangari&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimberlywangari&layout=compact&theme=default&hide_border=true)
-
----
-
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kimberly-njoroge-875206275/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kimberlywangarike@gmail.com)
