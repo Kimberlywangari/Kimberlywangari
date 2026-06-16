@@ -30,9 +30,6 @@ I'm a Computer Science graduate specializing in **Data Science** — I turn mess
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-> ⚠️ Keep this honest — remove anything you can't speak to in an interview, and add tools you genuinely use (e.g. Power BI, TensorFlow, Tableau, Excel).
-
----
 
 ## 🚀 Featured Projects
 
